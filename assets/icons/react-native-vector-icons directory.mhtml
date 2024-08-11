@@ -1,0 +1,402 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://oblador.github.io/react-native-vector-icons/
+Subject: react-native-vector-icons directory
+Date: Thu, 20 Jul 2023 20:37:03 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--RrWYVKUaVfsNCX6vO5fsYIPxqz7D7IzezF5ml52E7U----"
+
+
+------MultipartBoundary--RrWYVKUaVfsNCX6vO5fsYIPxqz7D7IzezF5ml52E7U----
+Content-Type: text/html
+Content-ID: <frame-A6882DF20F540BF31A535DAA61076708@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://oblador.github.io/react-native-vector-icons/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><meta name=3D"viewport" content=3D"wid=
+th=3Ddevice-width,initial-scale=3D1"><title>react-native-vector-icons direc=
+tory</title><link href=3D"https://oblador.github.io/react-native-vector-ico=
+ns/static/css/main.2e91a8f3.css" rel=3D"stylesheet"></head><body><div id=3D=
+"root"><div class=3D"App"><div class=3D"Header-Container"><div class=3D"Hea=
+der-Content"><h1 class=3D"Header-Title">react-native-vector-icons directory=
+</h1></div></div><div class=3D"Search-Container"><div class=3D"Search-Conte=
+nt"><form class=3D"Search-Form"><label for=3D"Search-Input" class=3D"Search=
+-Label"><span class=3D"Search-Icon" style=3D"font-family: FontAwesome;">=EF=
+=80=82</span></label><input type=3D"text" id=3D"Search-Input" class=3D"Sear=
+ch-Input" placeholder=3D"Search for an icon..."></form></div></div><div cla=
+ss=3D"Container"><div class=3D"Result-Row"><h2 class=3D"Result-Title">AntDe=
+sign</h2><div class=3D"Result-List"><div class=3D"Result-Icon-Container"><s=
+pan class=3D"Result-Icon" style=3D"font-family: AntDesign;">=EE=99=9E</span=
+><h4 class=3D"Result-Icon-Name">home</h4></div></div></div><div class=3D"Re=
+sult-Row"><h2 class=3D"Result-Title">Entypo</h2><div class=3D"Result-List">=
+<div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"f=
+ont-family: Entypo;">=EF=87=83</span><h4 class=3D"Result-Icon-Name">home</h=
+4></div></div></div><div class=3D"Result-Row"><h2 class=3D"Result-Title">Fe=
+ather</h2><div class=3D"Result-List"><div class=3D"Result-Icon-Container"><=
+span class=3D"Result-Icon" style=3D"font-family: Feather;">=EF=86=84</span>=
+<h4 class=3D"Result-Icon-Name">home</h4></div></div></div><div class=3D"Res=
+ult-Row"><h2 class=3D"Result-Title">FontAwesome</h2><div class=3D"Result-Li=
+st"><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=
+=3D"font-family: FontAwesome;">=EF=80=95</span><h4 class=3D"Result-Icon-Nam=
+e">home</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Resul=
+t-Icon" style=3D"font-family: FontAwesome;">=EF=83=A4</span><h4 class=3D"Re=
+sult-Icon-Name">tachometer</h4></div></div></div><div class=3D"Result-Row">=
+<h2 class=3D"Result-Title">FontAwesome5</h2><div class=3D"Result-List"><div=
+ class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-=
+family: FontAwesome5;">=EF=80=95</span><h4 class=3D"Result-Icon-Name">home<=
+/h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" =
+style=3D"font-family: FontAwesome5;">=EF=8F=BD</span><h4 class=3D"Result-Ic=
+on-Name">tachometer-alt</h4></div></div></div><div class=3D"Result-Row"><h2=
+ class=3D"Result-Title">Fontisto</h2><div class=3D"Result-List"><div class=
+=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family=
+: Fontisto;">=EE=A6=AA</span><h4 class=3D"Result-Icon-Name">home</h4></div>=
+<div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"f=
+ont-family: Fontisto;">=EE=AD=9C</span><h4 class=3D"Result-Icon-Name">nursi=
+ng-home</h4></div></div></div><div class=3D"Result-Row"><h2 class=3D"Result=
+-Title">Foundation</h2><div class=3D"Result-List"><div class=3D"Result-Icon=
+-Container"><span class=3D"Result-Icon" style=3D"font-family: Foundation;">=
+=EF=85=9A</span><h4 class=3D"Result-Icon-Name">home</h4></div></div></div><=
+div class=3D"Result-Row"><h2 class=3D"Result-Title">Ionicons</h2><div class=
+=3D"Result-List"><div class=3D"Result-Icon-Container"><span class=3D"Result=
+-Icon" style=3D"font-family: Ionicons;">=EE=B2=83</span><h4 class=3D"Result=
+-Icon-Name">home</h4></div><div class=3D"Result-Icon-Container"><span class=
+=3D"Result-Icon" style=3D"font-family: Ionicons;">=EE=B2=84</span><h4 class=
+=3D"Result-Icon-Name">home-outline</h4></div><div class=3D"Result-Icon-Cont=
+ainer"><span class=3D"Result-Icon" style=3D"font-family: Ionicons;">=EE=B2=
+=85</span><h4 class=3D"Result-Icon-Name">home-sharp</h4></div></div></div><=
+div class=3D"Result-Row"><h2 class=3D"Result-Title">MaterialCommunityIcons<=
+/h2><div class=3D"Result-List"><div class=3D"Result-Icon-Container"><span c=
+lass=3D"Result-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B1=
+=82=B5</span><h4 class=3D"Result-Icon-Name">folder-home</h4></div><div clas=
+s=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-famil=
+y: MaterialCommunityIcons;">=F3=B1=82=B6</span><h4 class=3D"Result-Icon-Nam=
+e">folder-home-outline</h4></div><div class=3D"Result-Icon-Container"><span=
+ class=3D"Result-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=
+=B0=A0=A4</span><h4 class=3D"Result-Icon-Name">google-home</h4></div><div c=
+lass=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-fa=
+mily: MaterialCommunityIcons;">=F3=B0=8B=9C</span><h4 class=3D"Result-Icon-=
+Name">home</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Re=
+sult-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=A0=A6</spa=
+n><h4 class=3D"Result-Icon-Name">home-account</h4></div><div class=3D"Resul=
+t-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Materia=
+lCommunityIcons;">=F3=B0=A1=BB</span><h4 class=3D"Result-Icon-Name">home-al=
+ert</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result-Ic=
+on" style=3D"font-family: MaterialCommunityIcons;">=F3=B1=97=90</span><h4 c=
+lass=3D"Result-Icon-Name">home-alert-outline</h4></div><div class=3D"Result=
+-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Material=
+CommunityIcons;">=F3=B0=BA=BA</span><h4 class=3D"Result-Icon-Name">home-ana=
+lytics</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result=
+-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=9F=90</span><h=
+4 class=3D"Result-Icon-Name">home-assistant</h4></div><div class=3D"Result-=
+Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: MaterialC=
+ommunityIcons;">=F3=B0=9F=91</span><h4 class=3D"Result-Icon-Name">home-auto=
+mation</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result=
+-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B1=A4=81</span><h=
+4 class=3D"Result-Icon-Name">home-battery</h4></div><div class=3D"Result-Ic=
+on-Container"><span class=3D"Result-Icon" style=3D"font-family: MaterialCom=
+munityIcons;">=F3=B1=A4=82</span><h4 class=3D"Result-Icon-Name">home-batter=
+y-outline</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Res=
+ult-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=9F=92</span=
+><h4 class=3D"Result-Icon-Name">home-circle</h4></div><div class=3D"Result-=
+Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: MaterialC=
+ommunityIcons;">=F3=B1=81=8D</span><h4 class=3D"Result-Icon-Name">home-circ=
+le-outline</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Re=
+sult-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=B4=95</spa=
+n><h4 class=3D"Result-Icon-Name">home-city</h4></div><div class=3D"Result-I=
+con-Container"><span class=3D"Result-Icon" style=3D"font-family: MaterialCo=
+mmunityIcons;">=F3=B0=B4=96</span><h4 class=3D"Result-Icon-Name">home-city-=
+outline</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Resul=
+t-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B1=85=99</span><=
+h4 class=3D"Result-Icon-Name">home-edit</h4></div><div class=3D"Result-Icon=
+-Container"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommu=
+nityIcons;">=F3=B1=85=9A</span><h4 class=3D"Result-Icon-Name">home-edit-out=
+line</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result-I=
+con" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=BE=9B</span><h4 =
+class=3D"Result-Icon-Name">home-export-outline</h4></div><div class=3D"Resu=
+lt-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Materi=
+alCommunityIcons;">=F3=B0=BB=BA</span><h4 class=3D"Result-Icon-Name">home-f=
+lood</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result-I=
+con" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=B7=92</span><h4 =
+class=3D"Result-Icon-Name">home-floor-0</h4></div><div class=3D"Result-Icon=
+-Container"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommu=
+nityIcons;">=F3=B0=B6=80</span><h4 class=3D"Result-Icon-Name">home-floor-1<=
+/h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" =
+style=3D"font-family: MaterialCommunityIcons;">=F3=B0=B6=81</span><h4 class=
+=3D"Result-Icon-Name">home-floor-2</h4></div><div class=3D"Result-Icon-Cont=
+ainer"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommunityI=
+cons;">=F3=B0=B6=82</span><h4 class=3D"Result-Icon-Name">home-floor-3</h4><=
+/div><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=
+=3D"font-family: MaterialCommunityIcons;">=F3=B0=B6=83</span><h4 class=3D"R=
+esult-Icon-Name">home-floor-a</h4></div><div class=3D"Result-Icon-Container=
+"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommunityIcons;=
+">=F3=B0=B6=84</span><h4 class=3D"Result-Icon-Name">home-floor-b</h4></div>=
+<div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"f=
+ont-family: MaterialCommunityIcons;">=F3=B0=B6=85</span><h4 class=3D"Result=
+-Icon-Name">home-floor-g</h4></div><div class=3D"Result-Icon-Container"><sp=
+an class=3D"Result-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=
+=B0=B6=86</span><h4 class=3D"Result-Icon-Name">home-floor-l</h4></div><div =
+class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-f=
+amily: MaterialCommunityIcons;">=F3=B0=B7=93</span><h4 class=3D"Result-Icon=
+-Name">home-floor-negative-1</h4></div><div class=3D"Result-Icon-Container"=
+><span class=3D"Result-Icon" style=3D"font-family: MaterialCommunityIcons;"=
+>=F3=B0=B7=94</span><h4 class=3D"Result-Icon-Name">home-group</h4></div><di=
+v class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font=
+-family: MaterialCommunityIcons;">=F3=B1=A7=81</span><h4 class=3D"Result-Ic=
+on-Name">home-group-minus</h4></div><div class=3D"Result-Icon-Container"><s=
+pan class=3D"Result-Icon" style=3D"font-family: MaterialCommunityIcons;">=
+=F3=B1=A7=80</span><h4 class=3D"Result-Icon-Name">home-group-plus</h4></div=
+><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"=
+font-family: MaterialCommunityIcons;">=F3=B1=A7=82</span><h4 class=3D"Resul=
+t-Icon-Name">home-group-remove</h4></div><div class=3D"Result-Icon-Containe=
+r"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommunityIcons=
+;">=F3=B0=A0=A7</span><h4 class=3D"Result-Icon-Name">home-heart</h4></div><=
+div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"fo=
+nt-family: MaterialCommunityIcons;">=F3=B0=BE=9C</span><h4 class=3D"Result-=
+Icon-Name">home-import-outline</h4></div><div class=3D"Result-Icon-Containe=
+r"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommunityIcons=
+;">=F3=B1=89=91</span><h4 class=3D"Result-Icon-Name">home-lightbulb</h4></d=
+iv><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=
+=3D"font-family: MaterialCommunityIcons;">=F3=B1=89=92</span><h4 class=3D"R=
+esult-Icon-Name">home-lightbulb-outline</h4></div><div class=3D"Result-Icon=
+-Container"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommu=
+nityIcons;">=F3=B1=A4=83</span><h4 class=3D"Result-Icon-Name">home-lightnin=
+g-bolt</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result=
+-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B1=A4=84</span><h=
+4 class=3D"Result-Icon-Name">home-lightning-bolt-outline</h4></div><div cla=
+ss=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-fami=
+ly: MaterialCommunityIcons;">=F3=B0=A3=AB</span><h4 class=3D"Result-Icon-Na=
+me">home-lock</h4></div><div class=3D"Result-Icon-Container"><span class=3D=
+"Result-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=A3=AC</=
+span><h4 class=3D"Result-Icon-Name">home-lock-open</h4></div><div class=3D"=
+Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Ma=
+terialCommunityIcons;">=F3=B0=97=B8</span><h4 class=3D"Result-Icon-Name">ho=
+me-map-marker</h4></div><div class=3D"Result-Icon-Container"><span class=3D=
+"Result-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=A5=B4</=
+span><h4 class=3D"Result-Icon-Name">home-minus</h4></div><div class=3D"Resu=
+lt-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Materi=
+alCommunityIcons;">=F3=B1=8F=95</span><h4 class=3D"Result-Icon-Name">home-m=
+inus-outline</h4></div><div class=3D"Result-Icon-Container"><span class=3D"=
+Result-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=8B=9D</s=
+pan><h4 class=3D"Result-Icon-Name">home-modern</h4></div><div class=3D"Resu=
+lt-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Materi=
+alCommunityIcons;">=F3=B0=9A=A1</span><h4 class=3D"Result-Icon-Name">home-o=
+utline</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result=
+-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=A5=B5</span><h=
+4 class=3D"Result-Icon-Name">home-plus</h4></div><div class=3D"Result-Icon-=
+Container"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommun=
+ityIcons;">=F3=B1=8F=96</span><h4 class=3D"Result-Icon-Name">home-plus-outl=
+ine</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result-Ic=
+on" style=3D"font-family: MaterialCommunityIcons;">=F3=B1=89=87</span><h4 c=
+lass=3D"Result-Icon-Name">home-remove</h4></div><div class=3D"Result-Icon-C=
+ontainer"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommuni=
+tyIcons;">=F3=B1=8F=97</span><h4 class=3D"Result-Icon-Name">home-remove-out=
+line</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result-I=
+con" style=3D"font-family: MaterialCommunityIcons;">=F3=B1=84=AB</span><h4 =
+class=3D"Result-Icon-Name">home-roof</h4></div><div class=3D"Result-Icon-Co=
+ntainer"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommunit=
+yIcons;">=F3=B1=8E=B0</span><h4 class=3D"Result-Icon-Name">home-search</h4>=
+</div><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" styl=
+e=3D"font-family: MaterialCommunityIcons;">=F3=B1=8E=B1</span><h4 class=3D"=
+Result-Icon-Name">home-search-outline</h4></div><div class=3D"Result-Icon-C=
+ontainer"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommuni=
+tyIcons;">=F3=B1=9E=94</span><h4 class=3D"Result-Icon-Name">home-switch</h4=
+></div><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon" sty=
+le=3D"font-family: MaterialCommunityIcons;">=F3=B1=9E=95</span><h4 class=3D=
+"Result-Icon-Name">home-switch-outline</h4></div><div class=3D"Result-Icon-=
+Container"><span class=3D"Result-Icon" style=3D"font-family: MaterialCommun=
+ityIcons;">=F3=B0=BD=94</span><h4 class=3D"Result-Icon-Name">home-thermomet=
+er</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result-Ico=
+n" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=BD=95</span><h4 cl=
+ass=3D"Result-Icon-Name">home-thermometer-outline</h4></div><div class=3D"R=
+esult-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Mat=
+erialCommunityIcons;">=F3=B0=8B=9E</span><h4 class=3D"Result-Icon-Name">hom=
+e-variant</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Res=
+ult-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=AE=A7</span=
+><h4 class=3D"Result-Icon-Name">home-variant-outline</h4></div><div class=
+=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family=
+: MaterialCommunityIcons;">=F3=B0=9A=8A</span><h4 class=3D"Result-Icon-Name=
+">shield-home</h4></div><div class=3D"Result-Icon-Container"><span class=3D=
+"Result-Icon" style=3D"font-family: MaterialCommunityIcons;">=F3=B0=B3=8B</=
+span><h4 class=3D"Result-Icon-Name">shield-home-outline</h4></div></div></d=
+iv><div class=3D"Result-Row"><h2 class=3D"Result-Title">MaterialIcons</h2><=
+div class=3D"Result-List"><div class=3D"Result-Icon-Container"><span class=
+=3D"Result-Icon" style=3D"font-family: MaterialIcons;">=EF=A3=AB</span><h4 =
+class=3D"Result-Icon-Name">add-home</h4></div><div class=3D"Result-Icon-Con=
+tainer"><span class=3D"Result-Icon" style=3D"font-family: MaterialIcons;">=
+=EF=A3=AD</span><h4 class=3D"Result-Icon-Name">add-home-work</h4></div><div=
+ class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-=
+family: MaterialIcons;">=EE=87=BE</span><h4 class=3D"Result-Icon-Name">add-=
+to-home-screen</h4></div><div class=3D"Result-Icon-Container"><span class=
+=3D"Result-Icon" style=3D"font-family: MaterialIcons;">=EF=A3=B8</span><h4 =
+class=3D"Result-Icon-Name">broadcast-on-home</h4></div><div class=3D"Result=
+-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Material=
+Icons;">=EE=A2=8A</span><h4 class=3D"Result-Icon-Name">home</h4></div><div =
+class=3D"Result-Icon-Container"><span class=3D"Result-Icon" style=3D"font-f=
+amily: MaterialIcons;">=EE=A6=B2</span><h4 class=3D"Result-Icon-Name">home-=
+filled</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result=
+-Icon" style=3D"font-family: MaterialIcons;">=EF=80=A4</span><h4 class=3D"R=
+esult-Icon-Name">home-max</h4></div><div class=3D"Result-Icon-Container"><s=
+pan class=3D"Result-Icon" style=3D"font-family: MaterialIcons;">=EF=80=A5</=
+span><h4 class=3D"Result-Icon-Name">home-mini</h4></div><div class=3D"Resul=
+t-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Materia=
+lIcons;">=EF=84=80</span><h4 class=3D"Result-Icon-Name">home-repair-service=
+</h4></div><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon"=
+ style=3D"font-family: MaterialIcons;">=EE=A8=89</span><h4 class=3D"Result-=
+Icon-Name">home-work</h4></div><div class=3D"Result-Icon-Container"><span c=
+lass=3D"Result-Icon" style=3D"font-family: MaterialIcons;">=EF=88=9B</span>=
+<h4 class=3D"Result-Icon-Name">leave-bags-at-home</h4></div><div class=3D"R=
+esult-Icon-Container"><span class=3D"Result-Icon" style=3D"font-family: Mat=
+erialIcons;">=EF=80=B0</span><h4 class=3D"Result-Icon-Name">maps-home-work<=
+/h4></div></div></div><div class=3D"Result-Row"><h2 class=3D"Result-Title">=
+Octicons</h2><div class=3D"Result-List"><div class=3D"Result-Icon-Container=
+"><span class=3D"Result-Icon" style=3D"font-family: Octicons;">=EF=86=84</s=
+pan><h4 class=3D"Result-Icon-Name">home</h4></div></div></div><div class=3D=
+"Result-Row"><h2 class=3D"Result-Title">SimpleLineIcons</h2><div class=3D"R=
+esult-List"><div class=3D"Result-Icon-Container"><span class=3D"Result-Icon=
+" style=3D"font-family: SimpleLineIcons;">=EE=81=A9</span><h4 class=3D"Resu=
+lt-Icon-Name">home</h4></div></div></div></div></div></div></body></html>
+------MultipartBoundary--RrWYVKUaVfsNCX6vO5fsYIPxqz7D7IzezF5ml52E7U----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://oblador.github.io/react-native-vector-icons/static/css/main.2e91a8f3.css
+
+@charset "utf-8";
+
+body { -webkit-font-smoothing: antialiased; font-family: -apple-system, Bli=
+nkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans"=
+, "Droid Sans", "Helvetica Neue", sans-serif; margin: 0px; }
+
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New"=
+, monospace; }
+
+@font-face { font-family: AntDesign; src: url("/react-native-vector-icons/s=
+tatic/media/AntDesign.163adab9dbd7cb1ed12a.ttf") format("truetype"); }
+
+@font-face { font-family: Entypo; src: url("/react-native-vector-icons/stat=
+ic/media/Entypo.fc6169344c041cffcdae.ttf") format("truetype"); }
+
+@font-face { font-family: EvilIcons; src: url("/react-native-vector-icons/s=
+tatic/media/EvilIcons.699664b33ac2837d5bee.ttf") format("truetype"); }
+
+@font-face { font-family: Feather; src: url("/react-native-vector-icons/sta=
+tic/media/Feather.0f5d9cede2e831f3fc80.ttf") format("truetype"); }
+
+@font-face { font-family: FontAwesome; src: url("/react-native-vector-icons=
+/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf") format("truetype"); }
+
+@font-face { font-family: FontAwesome5Brands; src: url("/react-native-vecto=
+r-icons/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf") format(=
+"truetype"); }
+
+@font-face { font-family: FontAwesome5_Regular; src: url("/react-native-vec=
+tor-icons/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf") form=
+at("truetype"); }
+
+@font-face { font-family: FontAwesome5; src: url("/react-native-vector-icon=
+s/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf") format("truety=
+pe"); }
+
+@font-face { font-family: FontAwesome6Brands; src: url("/react-native-vecto=
+r-icons/static/media/FontAwesome6_Brands.450a5c898f0b184b968b.ttf") format(=
+"truetype"); }
+
+@font-face { font-family: FontAwesome6_Regular; src: url("/react-native-vec=
+tor-icons/static/media/FontAwesome6_Regular.3cd9fb8fcec4ad0f99d4.ttf") form=
+at("truetype"); }
+
+@font-face { font-family: FontAwesome6; src: url("/react-native-vector-icon=
+s/static/media/FontAwesome6_Solid.b1a653db79258eeccc5d.ttf") format("truety=
+pe"); }
+
+@font-face { font-family: Fontisto; src: url("/react-native-vector-icons/st=
+atic/media/Fontisto.c0edd68811e0237502fe.ttf") format("truetype"); }
+
+@font-face { font-family: Foundation; src: url("/react-native-vector-icons/=
+static/media/Foundation.c0cbb004854f9c746f89.ttf") format("truetype"); }
+
+@font-face { font-family: Ionicons; src: url("/react-native-vector-icons/st=
+atic/media/Ionicons.9b6b1954a5eb6efeaf11.ttf") format("truetype"); }
+
+@font-face { font-family: MaterialCommunityIcons; src: url("/react-native-v=
+ector-icons/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf") =
+format("truetype"); }
+
+@font-face { font-family: MaterialIcons; src: url("/react-native-vector-ico=
+ns/static/media/MaterialIcons.f20305dee9d396fea5c7.ttf") format("truetype")=
+; }
+
+@font-face { font-family: Octicons; src: url("/react-native-vector-icons/st=
+atic/media/Octicons.6b742a230954dc640ba2.ttf") format("truetype"); }
+
+@font-face { font-family: SimpleLineIcons; src: url("/react-native-vector-i=
+cons/static/media/SimpleLineIcons.3ec13a24af3fdda11107.ttf") format("truety=
+pe"); }
+
+@font-face { font-family: Zocial; src: url("/react-native-vector-icons/stat=
+ic/media/Zocial.07fea2ac49bcc67d9a6b.ttf") format("truetype"); }
+
+* { box-sizing: border-box; }
+
+body { overflow: hidden auto; }
+
+.App { width: 100%; }
+
+.Header-Container { background-color: rgb(35, 82, 124); color: rgb(255, 255=
+, 255); padding: 20px 20px 0px; }
+
+.Header-Content { margin: 0px auto; max-width: 1200px; }
+
+.Header-Title { font-size: 18px; font-weight: 400; margin: 0px; }
+
+.Search-Container { background-color: rgb(35, 82, 124); color: rgb(255, 255=
+, 255); padding: 20px; }
+
+.Search-Content { margin: 0px auto; max-width: 1200px; }
+
+.Search-Form { background-color: rgb(255, 255, 255); border-radius: 3px; co=
+lor: rgb(51, 51, 51); display: flex; }
+
+.Search-Label { border-right: 1px solid rgb(238, 238, 238); padding: 10px; =
+}
+
+.Search-Input { border: 0px; border-radius: 0px 3px 3px 0px; flex-grow: 1; =
+font-size: inherit; padding: 10px; }
+
+.Search-Input:focus { outline: none; }
+
+.Container { margin: 0px auto; max-width: 1200px; padding-top: 60px; }
+
+.Result-Row { margin-bottom: 60px; }
+
+.Result-Title { background-color: rgb(255, 102, 102); border-radius: 3px 3p=
+x 0px 0px; color: rgb(255, 255, 255); font-size: 200%; font-weight: 400; ma=
+rgin: 0px; padding: 1em 20px; position: sticky; top: 0px; z-index: 1; }
+
+.Result-List { display: flex; flex-wrap: wrap; }
+
+.Result-Icon-Container { background-color: rgb(255, 255, 255); outline: rgb=
+(238, 238, 238) solid 1px; padding: 20px; text-align: center; width: 50%; }
+
+@media (min-width: 480px) {
+  .Result-Icon-Container { width: 33%; }
+}
+
+@media (min-width: 600px) {
+  .Result-Icon-Container { width: 25%; }
+}
+
+@media (min-width: 768px) {
+  .Result-Icon-Container { width: 20%; }
+}
+
+@media (min-width: 992px) {
+  .Result-Icon-Container { width: 14.27%; }
+}
+
+.Result-Icon { font-size: 35px; }
+
+.Result-Icon-Name { font-size: 14px; font-weight: 400; margin: 10px 0px 0px=
+; opacity: 0.8; }
+------MultipartBoundary--RrWYVKUaVfsNCX6vO5fsYIPxqz7D7IzezF5ml52E7U------
